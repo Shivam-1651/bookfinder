@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bookfinder/static/css/main.9e6efa4b.css",
+    "main.js": "/bookfinder/static/js/main.ee21ac4b.js",
+    "static/js/787.290a3e0e.chunk.js": "/bookfinder/static/js/787.290a3e0e.chunk.js",
+    "static/media/h.png": "/bookfinder/static/media/h.adf1041a81b98332e524.png",
+    "index.html": "/bookfinder/index.html",
+    "main.9e6efa4b.css.map": "/bookfinder/static/css/main.9e6efa4b.css.map",
+    "main.ee21ac4b.js.map": "/bookfinder/static/js/main.ee21ac4b.js.map",
+    "787.290a3e0e.chunk.js.map": "/bookfinder/static/js/787.290a3e0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e6efa4b.css",
+    "static/js/main.ee21ac4b.js"
+  ]
+}
